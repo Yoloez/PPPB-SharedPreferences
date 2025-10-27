@@ -34,6 +34,7 @@
         android:layout_width="wrap_content"
         android:layout_marginTop="16dp"
         android:layout_height="wrap_content"
+        android:backgroundTint="#0A17E9"
         android:text="Register" />
     <TextView
         android:id="@+id/txt_login"

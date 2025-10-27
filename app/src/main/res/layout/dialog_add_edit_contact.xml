@@ -9,6 +9,7 @@
         android:id="@+id/etName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:backgroundTint="#0A17E9"
         android:hint="Nama" />
 
     <EditText
@@ -16,6 +17,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Email"
+        android:backgroundTint="#0A17E9"
         android:layout_marginTop="8dp" />
 
     <EditText
@@ -23,5 +25,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Nomor Telepon"
+        android:backgroundTint="#0A17E9"
         android:layout_marginTop="8dp" />
 </LinearLayout>
